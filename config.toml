@@ -119,10 +119,10 @@ enableEmoji = true
       url       = "https://scholar.google.com/citations?user=A68xN8gAAAAJ&hl=en"
       
       
- [[params.social]]
-      icon      = "envelope" # icon name without the 'fa-'
-      icon_pack = "far"
-      url       = "astears@uwyo.edu"
+ #[[params.social]]
+  #    icon      = "envelope" # icon name without the 'fa-'
+   #   icon_pack = "far"
+    #  url       = "astears@uwyo.edu"
 
 
 [taxonomies]
