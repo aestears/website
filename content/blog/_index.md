@@ -1,5 +1,5 @@
 ---
-title: A Blog That Works
+title: Blog
 description: |
   This is where I share updates, random thoughts, helpful information I've come across...
 author: "Alice Stears"
