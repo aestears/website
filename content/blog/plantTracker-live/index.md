@@ -5,8 +5,8 @@ excerpt: "plantTracker, my R package to generate demographic and local neighborh
 date: 2023-01-20
 author: Alice Stears
 draft: false
-# layout options: single, single-sidebar
-layout: single
+# layout options: single-sidebar
+layout: single-sidebar
 categories:
 - R
 - publications

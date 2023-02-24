@@ -6,7 +6,7 @@ date: 2023-02-23
 author: Alice Stears
 draft: false
 # layout options: single, single-sidebar
-layout: single
+layout: single-sidebar
 categories:
 - collaboration
 - publications
