@@ -53,5 +53,6 @@ If you'd like to reproduce our anlyses, you can do so using the R code found eit
 
 <script type='text/javascript' style="float: left;" src='https://d1bxh8uas1mnw7.cloudfront.net/assets/embed.js'></script>
 <div data-badge-popover="right" data-badge-type="donut" style="float: left; margin:10px"  data-doi="doi.org/10.1002/ecy.3799" data-hide-no-mentions="true" class="altmetric-embed"></div>
-Stears, Alice E., Peter B. Adler, Dana M. Blumenthal, Julie A. Kray, Kevin E. Mueller, Troy W. Ocheltree, Kevin R. Wilcox, Daniel C. Laughlin. 2022. Water availability dictates how plant traits predict demographic rates. Ecology. e3799. [doi:10.1002/ecy.3799](https://doi.org/10.1002/ecy.3799)
+
+Stears, Alice E., Peter B. Adler, Dana M. Blumenthal, Julie A. Kray, Kevin E. Mueller, Troy W. Ocheltree, Kevin R. Wilcox, Daniel C. Laughlin. 2022. Water availability dictates how plant traits predict demographic rates. *Ecology,* **103**(11), e3799. [doi:10.1002/ecy.3799](https://doi.org/10.1002/ecy.3799)
 
