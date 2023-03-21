@@ -158,9 +158,9 @@ enableEmoji = true
    # url = "/collection/"
    # weight = 5
    [[menu.header]]
-    name = "plantTracker"
-    title = "plantTracker R Package"
-    url = "/plantTracker/"
+    name = "Software"
+    title = "Software"
+    url = "/package/"
     weight = 6
     
   # Configure footer  
