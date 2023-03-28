@@ -1,7 +1,7 @@
 ---
 title: "Alice Stears "
 subtitle: "Plant Population and Community Ecology - Data Science"
-description: "I am an plant ecologist interested in the impact of global change on the ecological processes that shape plant populations and communities. <p> I am currently a Postdoctoral researcher at the University of Wyoming as part of the [Weiss-Lehman lab group](https://weisslehmanlab.weebly.com/) and the [Modelscape consortium](https://microcollaborative.atlassian.net/wiki/spaces/MP/overview). "
+description: "I am a plant ecologist interested in the impact of global change on the ecological processes that shape plant populations and communities. <p> I am currently a Postdoctoral researcher at the University of Wyoming as part of the [Weiss-Lehman lab group](https://weisslehmanlab.weebly.com/) and the [Modelscape consortium](https://microcollaborative.atlassian.net/wiki/spaces/MP/overview). "
 images:
   - img/MoranFlowers.jpeg
 image_left: true
