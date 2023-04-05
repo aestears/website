@@ -8,7 +8,7 @@ publishDate: 2023-03-21
 date: 2023-03-21
 subtitle: "All about plantTracker"
 description: |
-  Here you can find more information about the plantTracker R package, which provides easy tools to translate repeatedy maps of 
+  Find out more about the plantTracker R package, which provides easy tools to translate repeatedy maps of 
 excerpt: 
 author: Alice Stears
 show_post_thumbnail: true
@@ -16,4 +16,4 @@ show_author_byline: false
 show_post_date: false
 ---
 
-  Here you can find more information about the plantTracker R package, which provides user-friendly tools to translate repeatedy sampled maps of stationary organism occurrence into demographic and local neighborhood data for further analysis.
+  Find out more about the plantTracker R package, which provides user-friendly tools to translate repeatedy sampled maps of stationary organism occurrence into demographic and local neighborhood data for further analysis.
