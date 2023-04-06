@@ -1,11 +1,9 @@
 ---
-title: "Create a Collection"
+title: "Resources"
 subtitle: "A collection, minus the blog."
 description: |
-  Sometimes you want a souped-up series- a bundle of related pages 
-  meant to be read in sequence. This section is like a blog series, 
-  minus the blog.
-author: Alison Hill
+  Workshop files, talks, useful links... find them all here!
+author: Alice Stears
 show_post_thumbnail: true
 thumbnail_left: false # for list-sidebar only
 show_author_byline: false
@@ -17,12 +15,10 @@ layout: list-sidebar # list, list-sidebar
 cascade:
   layout: single-series 
   sidebar:
-    title: "Create a Collection"
-    author: Alison Hill
+    title: "Resources"
+    author: Alice Stears
     description: |
-      Sometimes you want a souped-up series- a bundle of related pages 
-      meant to be read in sequence. This section is like a blog series, 
-      minus the blog.
+      Workshop files, talks, useful links... find them all here!
     show_author_byline: true
     show_post_date: true
     text_link_label: ""
