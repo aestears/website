@@ -16,5 +16,5 @@ show_author_byline: false
 show_post_date: false
 ---
 [<img src="github-mark.png"
-    style="max-width: 100px; margin: 20px; float: left">](http://www.astearsresearch.com/collection/rladiesworkshops/01-github/) 
-## Workshop: Using git, GitHub, and RStudio to collaborate with yourself and others
+    style="max-width: 80px; margin: 20px; float: left">](http://www.astearsresearch.com/collection/rladiesworkshops/01-github/) 
+### Workshop: Using git, GitHub, and RStudio to collaborate with yourself and others
