@@ -1,19 +1,18 @@
 ---
-title: "Day 01"
+title: "UWyo R-Ladies Workshops"
 # list or single layouts are possible
 layout: single-series # list, list-sidebar, single-series
 show_post_thumbnail: true
 weight: 2
-publishDate: 2021-01-22
-date: 2021-01-25
-subtitle: "All about Day 01 of 'Introduce Yourself Online'."
+publishDate: 2023-04-05
+date: 2023-04-05
+subtitle: "Materials for workshops & help sessions for the University of Wyoming R-Ladies group."
 description: |
-  Our first day together is all about building and publishing.
+ Materials for workshops/help session for the University of Wyoming R-Ladies group..
 excerpt: 
-author: Alison Hill
+author: Alice Stears
 show_post_thumbnail: true
 show_author_byline: false
 show_post_date: false
 ---
-
-If you choose `layout: single-series`, you can add markdown text here and it will be the landing page for this nested subsection.
+Click below for more information about each of the 
