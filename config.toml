@@ -155,7 +155,7 @@ enableEmoji = true
   [[menu.header]]
     name = "Resources"
     title = "Resources"
-    url = "/resources/"
+    url = "/collection/"
     weight = 5
     
   # Configure footer  
