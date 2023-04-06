@@ -33,7 +33,7 @@ enableEmoji = true
   description = "Alice Stears's professional website"
   favicon = "/img/favicon.ico"
   logo = "/img/plant_icon.png"
-  mainSections = ["blog", "project" , "software", "resources"]
+  mainSections = ["blog", "project" , "package", "resources"]
   navallcaps = true
   # show/hide social icons in site header & footer
   # configure social icons and links below in [[params.social]]
@@ -155,7 +155,7 @@ enableEmoji = true
   [[menu.header]]
     name = "Resources"
     title = "Resources"
-    url = "/collection/"
+    url = "/resources/"
     weight = 5
     
   # Configure footer  
