@@ -47,7 +47,7 @@ This package contains two primary functions:
 
 ### Find out more about this R package...
 - on [GitHub](https://github.com/aestears/plantTracker)
-- on the package [webpage](astearsresearch.com/plantTracker)
+- on the package [webpage](https://www.astearsresearch.com/package/planttracker/)
 - in our [paper](https://doi.org/10.1111/2041-210X.13950) published in Methods in Ecology and Evolution in 2022 
 
 <script type='text/javascript' style="float: left;" src='https://d1bxh8uas1mnw7.cloudfront.net/assets/embed.js'></script>
