@@ -17,9 +17,9 @@ links:
 - icon: images
   icon_pack: fas
   name: slides
-  url: /collection/RLadiesWorkshops/01-github/slides/
+  url: https://aestears.quarto.pub/git-github-and-r-studio/#/title-slide
 ---
-## Workshop Slides are [Here](/collection/RLadiesWorkshops/01-gihub/slides/) 
+## Workshop Slides are [Here](https://aestears.quarto.pub/git-github-and-r-studio/#/title-slide) 
 
 ## Pre-Workshop To-Do
 
