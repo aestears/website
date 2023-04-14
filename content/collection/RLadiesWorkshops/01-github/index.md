@@ -14,7 +14,12 @@ links:
   icon_pack: fab
   name: code
   url: https://github.com/Rladies-uwyo/Code-Share
+- icon: images
+  icon_pack: fas
+  name: slides
+  url: /collection/RLadiesWorkshops/01-github/slides/
 ---
+## Workshop Slides are [Here](/collection/RLadiesWorkshops/01-gihub/slides/) 
 
 ## Pre-Workshop To-Do
 
