@@ -20,6 +20,7 @@ links:
   url: https://aestears.quarto.pub/git-github-and-r-studio/#/title-slide
 ---
 ## Workshop Slides are [Here](https://aestears.quarto.pub/git-github-and-r-studio/#/title-slide) 
+### [Additional slides](https://docs.google.com/presentation/d/13KY4w7AbStH75IgvNgzmNXNG29kHISST/edit#slide=id.p1) about collaborative git workflows (Courtesy of Molly Caldwell!)
 
 ## Pre-Workshop To-Do
 
