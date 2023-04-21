@@ -20,7 +20,7 @@ show_post_date: false
 ### Workshop: Using git, GitHub, and RStudio to collaborate with yourself and others
 
 [<img src="R_logo.svg.png"
-    style="max-width: 80px; margin: 20px; float: left">](http://www.astearsresearch.com/collection/rladiesworkshops/02-PackageDev/) 
+    style="max-width: 80px; margin: 20px; float: left">](https://www.astearsresearch.com/collection/rladiesworkshops/02-packagedev/) 
 ### Workshop: The Basics of R package development
 
 
