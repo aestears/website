@@ -18,3 +18,9 @@ show_post_date: false
 [<img src="github-mark.png"
     style="max-width: 80px; margin: 20px; float: left">](http://www.astearsresearch.com/collection/rladiesworkshops/01-github/) 
 ### Workshop: Using git, GitHub, and RStudio to collaborate with yourself and others
+
+[<img src="R_logo.svg.png"
+    style="max-width: 80px; margin: 20px; float: left">](http://www.astearsresearch.com/collection/rladiesworkshops/02-PackageDev/) 
+### Workshop: The Basics of R package development
+
+
