@@ -18,5 +18,10 @@ links:
   icon_pack: fas
   name: part 1 slides
   url: https://aestears.quarto.pub/the-why-and-how-of-r-package-development-part-1/
+- icon: images
+  icon_pack: fas
+  name: part 2 slides
+  url: https://aestears.quarto.pub/the-why-and-how-of-r-package-development-part-2
 ---
 ## Workshop Slides for Part 1 are [Here](https://aestears.quarto.pub/the-why-and-how-of-r-package-development-part-1/)
+## Workshop Slides for Part 2 are [Here](https://aestears.quarto.pub/the-why-and-how-of-r-package-development-part-2)
